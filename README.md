@@ -1,3 +1,3 @@
 # OneClickDeployGhostBlog
-# ÐéÄâ»úµÄ¹²ÏíÉèÖÃe:\VmShare ->/e/VmShare
+# è™šæ‹Ÿæœºçš„å…±äº«è®¾ç½®e:\VmShare ->/e/VmShare
 # //e/VmShare/ghost-app/data 
